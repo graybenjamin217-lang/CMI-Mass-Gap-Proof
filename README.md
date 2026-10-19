@@ -3,6 +3,8 @@
 **Author:** Benjamin Edward Gray (Independent Researcher, Missouri, USA).  
 **Focus:** Constructive Quantum Field Theory, Non-Commutative Operator Mechanics, and CMI Mass Gap Verification.
 
+https://doi.org/10.5281/zenodo.23087100
+
 ---
 
 ## Overview
