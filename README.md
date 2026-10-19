@@ -1,4 +1,4 @@
-# README: Spectral Gap Construction and Vacuum Uniqueness in Non-Commutative $\hat{\Omega}_G$ Operator Mechanics
+## Spectral Gap Construction and Vacuum Uniqueness in Non-Commutative $\hat{\Omega}_G$ Operator Mechanics
 
 **Author:** Benjamin Edward Gray (Independent Researcher, Missouri, USA).  
 **Focus:** Constructive Quantum Field Theory, Non-Commutative Operator Mechanics, and CMI Mass Gap Verification.
