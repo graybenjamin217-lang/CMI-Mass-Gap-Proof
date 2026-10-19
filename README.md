@@ -14,7 +14,7 @@ This repository hosts the formal documentation, manuscript (`CMI_Mass_Gap_Proof.
 ## Key Structural Sections
 
 * **1. Hilbert Space Construction and Operator Domain:** Formulates state spaces strictly over flat 4D Minkowski space ($\mathbb{R}^4, \eta_{\mu\nu}$) as a finite local projection of the inductive limit $C^*$-algebraic Hilbert space $\mathcal{H}_\infty = \varinjlim \mathcal{H}_k$.
-* **2. Proof of the Strict Spectral Floor:** Establishes vacuum isolation, lower spectral bound derivations, and explicit matrix decomposition of coupling blocks ($\Gamma_{QCD}$) yielding $\lambda_{\min} = 1 - \eta_{\text{drag}} > 0.
+* **2. Proof of the Strict Spectral Floor:** Establishes vacuum isolation, lower spectral bound derivations, and explicit matrix decomposition of coupling blocks ($\Gamma_{QCD}$) yielding $\lambda_{\min} = 1 - \eta_{\text{drag}} > 0$.
 * **3. Wightman Axiom Verification:** Verifies Poincaré covariance, the spectral condition, microcausality, and the positive-definiteness of the 64-element projector space $\hat{\Pi}_{64}$ to eliminate ghost states.
 * **4. Continuum Limit Stability and Cutoff Invariance:** Demonstrates that spatial resolution limits ($\delta x \to 0$) preserve the non-zero spectral floor, preventing ultraviolet collapse.
 * **5. CMI Requirement Mapping and Conclusion:** Maps framework solutions point-by-point against Clay Mathematics Institute Millennium Prize criteria.
